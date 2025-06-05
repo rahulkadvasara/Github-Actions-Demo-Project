@@ -14,7 +14,7 @@ This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScri
 
 Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
 
-In your terminal, run the following command:
+Run the following commands in your terminal:
 
 ```bash
 npx create-next-app --example with-jest with-jest-app
